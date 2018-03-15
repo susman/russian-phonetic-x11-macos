@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.russianphoneticx11</string>
+	<string>org.sil.ukelele.keyboardlayout.russian-phoneticx11</string>
 	<key>CFBundleName</key>
-	<string>Russian Phonetic X11</string>
+	<string>Russian - Phonetic X11</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Russian - Phonetic X11</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.russianphoneticx11.russian-phoneticx11</string>
+		<string>org.sil.ukelele.keyboardlayout.russian-phoneticx11.russian-phoneticx11</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
